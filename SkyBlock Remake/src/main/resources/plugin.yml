@@ -1,0 +1,8 @@
+name: SkyBlockRemake
+version: '${project.version}'
+main: net.fordium.skyblockremake.Main
+api-version: 1.17
+prefix: SkyBlock Remake
+authors: [ Not_Apoorv ]
+description: A remake of Hypixel's SkyBlock
+website: fordium.net
